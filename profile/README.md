@@ -4,6 +4,5 @@ Vortex Deskware
 
 ---
 Current Member Roll
-
-- @colebolebole CEO
-- @axeltechtips CEO/Application Developer
+- <p><a href="https://github.com/colebolebole">Colebolebole</a> - CEO</p>
+- <p><a href="https://github.com/axeltechtips">axeltechtips</a> - CEO/Application Developer</p>
