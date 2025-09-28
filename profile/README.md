@@ -5,5 +5,4 @@ Vortex Deskware
 ---
 Current Member Roll
 - <p><a href="https://github.com/colebolebole">colebolebole</a> - CEO</p>
-- <p><a href="https://github.com/axeltechtips">axeltechtips</a> - CEO/Application Developer</p>
 - <p><a href="https://github.com/bladestech">bladestech</a> - CEO/Application Developer</p>
